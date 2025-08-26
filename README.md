@@ -27,14 +27,6 @@
 - 🏏 [Cricket Player Manager](https://github.com/harishrm-03/PlayerManagementDB)  
 ---
 
-## 📜 Certifications  
-- Crash Course on Python – Google/Coursera  
-- AWS Cloud Practitioner – AWS  
-- Full Stack Web Dev Bootcamp (Angela Yu) – Ongoing  
-- AWS Solutions Architect – In Progress  
-- AWS Developer Associate – In Progress  
-
----
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)  
