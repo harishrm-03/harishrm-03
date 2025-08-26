@@ -25,8 +25,6 @@
 - 🎵 [Music Genre Classification](https://github.com/harishrm/MusicGenreClassification)  
 - 📚 [Library Management System](https://github.com/harishrm/LibraryManagementSystem)  
 - 🏏 [Cricket Player Manager](https://github.com/harishrm/PlayerManagementDB)  
-- 🏠 [Smart Appliance Manager](https://github.com/harishrm/SmartApplianceManager)  
-
 ---
 
 ## 📜 Certifications  
