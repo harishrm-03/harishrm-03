@@ -20,10 +20,10 @@
 ---
 ## 📜 Certifications
 - Crash Course on Python – Google/Coursera  
-- AWS Cloud Practitioner – AWS  
+- AWS Cloud Practitioner – AWS/Udemy
 - Full Stack Web Dev Bootcamp (Angela Yu)   
-- AWS Solutions Architect   
-- AWS Developer Associate   
+- AWS Solutions Architect - AWS/Udemy
+- AWS Developer Associate - AWS Skill Builder 
 
 ---
 📫 Connect with me: [LinkedIn](https://linkedin.com/in/) | [Email](mailto:harishrm0036@gmail.com)
