@@ -6,7 +6,7 @@
 
 ---
 ## 🔨 Tech Stack
-- **Languages:** C (Embedded), Python, JavaScript, HTML5, CSS3  
+- **Languages:** C, C (Embedded), Python, JavaScript, HTML5, CSS3  
 - **Frameworks:** React.js, Node.js, Express.js  
 - **Cloud & Databases:** AWS, MySQL  
 - **Tools:** Arduino IDE, Keil, VS Code, Jupyter, Logisim  
