@@ -33,12 +33,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harishrm)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishrm0036@gmail.com)  
 
----
 
-## 📊 GitHub Stats  
-
-![Harish's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishrm&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishrm&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harishrm&theme=tokyonight)  
