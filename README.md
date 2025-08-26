@@ -22,9 +22,9 @@
 ---
 
 ## 📌 Featured Projects  
-- 🎵 [Music Genre Classification](https://github.com/harishrm/MusicGenreClassification)  
-- 📚 [Library Management System](https://github.com/harishrm/LibraryManagementSystem)  
-- 🏏 [Cricket Player Manager](https://github.com/harishrm/PlayerManagementDB)  
+- 🎵 [Music Genre Classification](https://github.com/harishrm-03/MusicGenreClassification)  
+- 📚 [Library Management System](https://github.com/harishrm-03/LibraryManagementSystem)  
+- 🏏 [Cricket Player Manager](https://github.com/harishrm-03/PlayerManagementDB)  
 ---
 
 ## 📜 Certifications  
